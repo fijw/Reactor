@@ -36,10 +36,10 @@
     @note methods.
 
     @note By default, the callback functionality for a
-    @note Classified object is to change the Classified
+    @note inputted object is to change the inputted
     @note object's data.
     @note This can be used to do things like: add, change, or
-    @note completely remove values in the Classified object.
+    @note completely remove values in the inputted object.
     @note This usually applies to Arrays and Dictionaries.
 
     @usage
