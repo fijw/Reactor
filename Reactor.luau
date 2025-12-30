@@ -115,8 +115,6 @@
 
             StateEngineTest = StateEngineTest:returnUnlocked()
             StateEngineTest("should be this now since it's unlocked")
-
-            StateEngineTest()
         end
 
         -- Test adding methods.
